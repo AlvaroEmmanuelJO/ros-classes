@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3    CMakeFiles/number-guessexe.dir/src/main.cpp.o  -o number-guessexe -rdynamic 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3    CMakeFiles/randexe.dir/src/main.cpp.o  -o randexe -rdynamic 
